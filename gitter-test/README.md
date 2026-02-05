@@ -80,7 +80,7 @@ Problemet ligger i kompleksiteten.
 
 RSA undervises på lavere grad, og også D-H er koseptuelt enkelt (alt er som vanlig relativt).  Mange har implementert begge deler i et kurs i kryptografi.
 
-I "gamle dager" var standardverket *Rational Points on Elliptic Curves* av Silverman & Tate.  Enhver som har forsøkt å få grep om ECC ved å bla i den gule boken vet hva jeg mener.  En matematiker jeg jobbet sammen med sa at det er færre enn hundre mennesker i Norge som har et tilfredsstillende grep om ECC.
+I "gamle dager" var standardverket *Rational Points on Elliptic Curves* av Silverman & Tate.  Enhver som har forsøkt å få grep om ECC ved å bla i den gule boken vet hva jeg mener.  En matematiker jeg jobbet sammen med sa at det er færre enn hundre mennesker i Norge som har et tilfredsstillende grep om ECC.  For ordens skyld: Jeg er ikke blandt dem!
 
 Neste generasjon, som også er (antatt å være) sikker mot kvantedatamaskiner, er basert på algebraiske operasjoner i et gitter i R^n.  Bakgrunn for selve teknologien kan man nyte i [A Decade of Lattice Cryptography](decade-lattice.pdf); rykter forteller at dette inntil videre er å betrakte som standardverket.
 

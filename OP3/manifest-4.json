@@ -1,0 +1,43 @@
+{
+    "manifest": "Svar",
+    "Avsender": "Fordeleren",
+    "Jobb": "01234-abcd-5678-efab-90123",
+    "Svar" : {
+	"filer": [
+	    "etiteter": "https://s3.netapp.politinett.no/.......",
+	    "sammendrag": "https://s3.netapp.politinett.no/.......",
+	],
+    },
+}
+
+
+//
+
+{
+    [
+	"objekt": {
+	    "type": "telefonnummer",
+	    "verdi": "+4798625874"
+	},
+	"objekt": {
+	    "type": "navn",
+	    "verdi": {
+		"fornavn": "Tage",
+		"mellomnavn": null,
+		"etternavn" : "Stabell-Kulø"
+	    }
+	}
+    ]
+    ...
+}
+
+///
+
+{
+    "sammendrag": ".........."
+}
+
+
+	
+	
+	    

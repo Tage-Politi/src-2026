@@ -1,0 +1,32 @@
+{
+    "manifest": "Oppghave",
+    "Avsender": "Indicia",
+    "Jobb": "01234-abcd-5678-efab-90123",
+    "Autentisering": null,
+    "Sensitivitet": null,
+    "Oppgave" : {
+	"filer": [
+	    "https://s3.netapp.politinett.no/.......",
+	    "https://s3.netapp.politinett.no/.......",
+	    "https://s3.netapp.politinett.no/.......",
+	    "https://s3.netapp.politinett.no/......."
+	],
+	"tjeneste": [
+	    "Entitetsuttrekk",
+	    "Sammendrag": {
+		"lengde": "stor"
+	    }
+	    "Regexp"
+	],
+	"KjøreIAzure": false,
+    },
+    "svar": [
+	"JSON": true,
+	"SJekkAvFødselsnummerMotFREG": false,
+    ]
+
+}
+    
+	
+	
+	    
